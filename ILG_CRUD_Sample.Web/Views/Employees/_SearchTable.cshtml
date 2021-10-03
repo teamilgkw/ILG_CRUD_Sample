@@ -1,0 +1,35 @@
+﻿@using ILG_CRUD_Sample.BusinessLogic.ViewModels;
+@model List<EmployeeViewModel>
+
+<table class="table">
+    <thead>
+        <tr>
+            <!--<th>Employee ID</th>-->
+            <th>Name</th>
+            <th>Email</th>
+            <th>Age</th>
+            <th>Birth Date</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @if (Model.Any())
+        {
+            @for (int nCurrentEmployeeIndex = 0; nCurrentEmployeeIndex < Model.Count; nCurrentEmployeeIndex++)
+            {
+                <partial name="_EmployeeTableRecord" model="Model[nCurrentEmployeeIndex]" />
+            }
+        }
+        else
+        {
+            <tr>
+                <td>
+                    No Employees Found.
+                </td>
+            </tr>
+        }
+
+
+
+    </tbody>
+</table>

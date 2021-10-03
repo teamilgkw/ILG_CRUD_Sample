@@ -1,0 +1,16 @@
+D:\ILG_Projects\ILG_CRUD_Sample\ILG_CRUD_Sample.DataAccess\bin\Debug\netcoreapp3.1\ILG_CRUD_Sample.DataAccess.deps.json
+D:\ILG_Projects\ILG_CRUD_Sample\ILG_CRUD_Sample.DataAccess\bin\Debug\netcoreapp3.1\ILG_CRUD_Sample.DataAccess.runtimeconfig.json
+D:\ILG_Projects\ILG_CRUD_Sample\ILG_CRUD_Sample.DataAccess\bin\Debug\netcoreapp3.1\ILG_CRUD_Sample.DataAccess.runtimeconfig.dev.json
+D:\ILG_Projects\ILG_CRUD_Sample\ILG_CRUD_Sample.DataAccess\bin\Debug\netcoreapp3.1\ILG_CRUD_Sample.DataAccess.dll
+D:\ILG_Projects\ILG_CRUD_Sample\ILG_CRUD_Sample.DataAccess\bin\Debug\netcoreapp3.1\ILG_CRUD_Sample.DataAccess.pdb
+D:\ILG_Projects\ILG_CRUD_Sample\ILG_CRUD_Sample.DataAccess\bin\Debug\netcoreapp3.1\ILG_CRUD_Sample.BusinessLogic.dll
+D:\ILG_Projects\ILG_CRUD_Sample\ILG_CRUD_Sample.DataAccess\bin\Debug\netcoreapp3.1\ILG_CRUD_Sample.BusinessLogic.pdb
+D:\ILG_Projects\ILG_CRUD_Sample\ILG_CRUD_Sample.DataAccess\obj\Debug\netcoreapp3.1\ILG_CRUD_Sample.DataAccess.csprojAssemblyReference.cache
+D:\ILG_Projects\ILG_CRUD_Sample\ILG_CRUD_Sample.DataAccess\obj\Debug\netcoreapp3.1\ILG_CRUD_Sample.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\ILG_Projects\ILG_CRUD_Sample\ILG_CRUD_Sample.DataAccess\obj\Debug\netcoreapp3.1\ILG_CRUD_Sample.DataAccess.AssemblyInfoInputs.cache
+D:\ILG_Projects\ILG_CRUD_Sample\ILG_CRUD_Sample.DataAccess\obj\Debug\netcoreapp3.1\ILG_CRUD_Sample.DataAccess.AssemblyInfo.cs
+D:\ILG_Projects\ILG_CRUD_Sample\ILG_CRUD_Sample.DataAccess\obj\Debug\netcoreapp3.1\ILG_CRUD_Sample.DataAccess.csproj.CoreCompileInputs.cache
+D:\ILG_Projects\ILG_CRUD_Sample\ILG_CRUD_Sample.DataAccess\obj\Debug\netcoreapp3.1\ILG_CRUD_Sample.DataAccess.csproj.CopyComplete
+D:\ILG_Projects\ILG_CRUD_Sample\ILG_CRUD_Sample.DataAccess\obj\Debug\netcoreapp3.1\ILG_CRUD_Sample.DataAccess.dll
+D:\ILG_Projects\ILG_CRUD_Sample\ILG_CRUD_Sample.DataAccess\obj\Debug\netcoreapp3.1\ILG_CRUD_Sample.DataAccess.pdb
+D:\ILG_Projects\ILG_CRUD_Sample\ILG_CRUD_Sample.DataAccess\obj\Debug\netcoreapp3.1\ILG_CRUD_Sample.DataAccess.genruntimeconfig.cache

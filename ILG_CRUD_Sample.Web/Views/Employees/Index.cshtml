@@ -1,0 +1,19 @@
+﻿@using ILG_CRUD_Sample.BusinessLogic.ViewModels;
+@model EmployeeSearchViewModel
+
+@{
+    ViewData["Title"] = "Employees Management";
+}
+
+<h3>Employees Management</h3>
+<partial name="_EmployeesSearchForm" model="Model" />
+<div>
+    <a asp-controller="Employees" asp-action="Create" class="btn btn-info float-right">New Employee</a>
+    <br /><br />
+</div>
+<partial name="_SearchTable" model="Model.SearchResult" />
+
+
+
+    
+

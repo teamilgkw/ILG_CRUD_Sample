@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ILG_CRUD_Sample.BusinessLogic/1.0.0": {
+        "runtime": {
+          "ILG_CRUD_Sample.BusinessLogic.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ILG_CRUD_Sample.BusinessLogic/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

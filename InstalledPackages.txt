@@ -1,0 +1,14 @@
+
+DataAccess
+Install-Package Microsoft.EntityFrameworkCore -Version 5.0.10
+
+Install-Package Microsoft.EntityFrameworkCore.Design -Version 5.0.10
+
+Install-Package Microsoft.EntityFrameworkCore.SqlServer -Version 5.0.10
+
+Install-Package Microsoft.EntityFrameworkCore.Tools -Version 5.0.10
+
+Install-Package BeginCollectionItemCore -Version 1.1.0
+
+Tests
+Install-Package xunit.runner.visualstudio -Version 2.4.3

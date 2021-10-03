@@ -1,0 +1,64 @@
+﻿@model ILG_CRUD_Sample.BusinessLogic.ViewModels.EmployeeSearchViewModel
+
+<form method="post" asp-controller="Employees" asp-action="Search" enctype="multipart/form-data">
+    <h5>Search Employees </h5>
+    <div class="row border p-2 bg-light border">
+
+        <div style="clear:both;"></div>
+
+        <div class="col-md-6">
+            <div class="form-group">
+                <input type="hidden" />
+                <label asp-for="Name"></label>
+                <input asp-for="Name" type="text" class="form-control" />
+            </div>
+        </div>
+
+        <div class="col-md-6">
+            <div class="form-group">
+                <input type="hidden" />
+                <label asp-for="Email"></label>
+                <input asp-for="Email" type="text" class="form-control" />
+            </div>
+        </div>
+
+        <div class="col-md-3">
+            <div class="form-group">
+                <label asp-for="AgeFrom"></label>
+                <input asp-for="AgeFrom" type="text" class="form-control" />
+            </div>
+        </div>
+
+        <div class="col-md-3">
+            <div class="form-group">
+                <label asp-for="AgeTo"></label>
+                <input asp-for="AgeTo" type="text" class="form-control" />
+            </div>
+        </div>
+
+        <div class="col-md-3">
+            <div class="form-group">
+                <label asp-for="BirthDateFrom"></label>
+                <input asp-for="BirthDateFrom" type="text" class="form-control" />
+            </div>
+        </div>
+
+        <div class="col-md-3">
+            <div class="form-group">
+                <label asp-for="BirthDateTo"></label>
+                <input asp-for="BirthDateTo" type="text" class="form-control" />
+            </div>
+        </div>
+
+
+
+        <div class="col-md-12">
+            <a asp-controller="Employees" asp-action="Reset" class="btn btn-outline-info float-right m-md-2">Show All</a>
+            <input type="submit" value="Search" class="btn btn-info float-right m-md-2" />
+            <br /><br />
+        </div>
+    </div>
+    <br />
+    <br />
+
+</form>

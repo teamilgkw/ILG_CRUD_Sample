@@ -1,0 +1,10 @@
+D:\ILG_Projects\ILG_CRUD_Sample\ILG_CRUD_Sample.BusinessLogic\bin\Debug\netcoreapp3.1\ILG_CRUD_Sample.BusinessLogic.deps.json
+D:\ILG_Projects\ILG_CRUD_Sample\ILG_CRUD_Sample.BusinessLogic\bin\Debug\netcoreapp3.1\ILG_CRUD_Sample.BusinessLogic.dll
+D:\ILG_Projects\ILG_CRUD_Sample\ILG_CRUD_Sample.BusinessLogic\bin\Debug\netcoreapp3.1\ILG_CRUD_Sample.BusinessLogic.pdb
+D:\ILG_Projects\ILG_CRUD_Sample\ILG_CRUD_Sample.BusinessLogic\obj\Debug\netcoreapp3.1\ILG_CRUD_Sample.BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+D:\ILG_Projects\ILG_CRUD_Sample\ILG_CRUD_Sample.BusinessLogic\obj\Debug\netcoreapp3.1\ILG_CRUD_Sample.BusinessLogic.AssemblyInfoInputs.cache
+D:\ILG_Projects\ILG_CRUD_Sample\ILG_CRUD_Sample.BusinessLogic\obj\Debug\netcoreapp3.1\ILG_CRUD_Sample.BusinessLogic.AssemblyInfo.cs
+D:\ILG_Projects\ILG_CRUD_Sample\ILG_CRUD_Sample.BusinessLogic\obj\Debug\netcoreapp3.1\ILG_CRUD_Sample.BusinessLogic.csproj.CoreCompileInputs.cache
+D:\ILG_Projects\ILG_CRUD_Sample\ILG_CRUD_Sample.BusinessLogic\obj\Debug\netcoreapp3.1\ILG_CRUD_Sample.BusinessLogic.dll
+D:\ILG_Projects\ILG_CRUD_Sample\ILG_CRUD_Sample.BusinessLogic\obj\Debug\netcoreapp3.1\ILG_CRUD_Sample.BusinessLogic.pdb
+D:\ILG_Projects\ILG_CRUD_Sample\ILG_CRUD_Sample.BusinessLogic\obj\Debug\netcoreapp3.1\ILG_CRUD_Sample.BusinessLogic.csprojAssemblyReference.cache

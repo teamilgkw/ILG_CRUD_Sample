@@ -1,0 +1,24 @@
+﻿@using HtmlHelpers.BeginCollectionItemCore;
+@model ILG_CRUD_Sample.BusinessLogic.ViewModels.EmployeeViewModel
+
+
+<form asp-controller="Employees" asp-action="Index" enctype="multipart/form-data">
+    @using (Html.BeginCollectionItem("lEmployeeViewModels"))
+    {
+        <tr>
+            <td>@Model.Name</td>
+            <td>@Model.Email</td>
+            <td>@Model.Age</td>
+            <td>@String.Format("{0:dd MMM yyyy}", Model.BirthDate) </td>
+            <td>
+                <span>
+                    @Html.HiddenFor(x => x.ID)
+                </span>
+                <a asp-controller="Employees" asp-action="Details" asp-route-id="@Model.ID" class="btn btn-info btn-sm">Details</a>
+                <a asp-controller="Employees" asp-action="Edit" asp-route-id="@Model.ID" class="btn btn-secondary btn-sm">Edit</a>
+                <a asp-controller="Employees" asp-action="Delete" asp-route-id="@Model.ID" class="btn btn-danger btn-sm">Delete</a>
+                <input type="submit" class="btn btn-info btn-sm" value="Tasks" />
+            </td>
+        </tr>
+    }
+</form>
